@@ -6,7 +6,7 @@
 - 😄 Pronouns: Mr...
 - ⚡ Fun fact:I am son of local village farmer from Pune having keen intrest in all new IT-Tech domains ...
 
-<!---
+<!I am Vaishnav Nigade, currently student at Indian Institute of Information Technology, Kottayam. I am son of Farmer from the rural village from Pune district in Maharashtra, my parents are farmer and I have grew up my childhood in a well cultured Maratha family which is also called as land of saints and great leader Shri Chhatrapati Shivaji Maharaj. My childhood is greatly influenced by the leadership and cultural stories told by my grandparents of saints and leaders. And during childhood I have worked in the farms where I have learnt to do the hardwork. Due to introduction of English schools in our area, I was admitted from local primary government school to convent English school Abhinav English medium school, where I did my secondary schooling won many medals and scholarships and secured 1st rank in entire district in 10th standard, then I moved to pune for my junior college where I got the admission in one of the top leader producing college of Maharashtra which is known as fergusson college, there I secured a good score of 98/100 in HSC. I have cleared JEE in 1st attempt with self study securining all India Rank ---
 nigade-vaishnav/nigade-vaishnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
